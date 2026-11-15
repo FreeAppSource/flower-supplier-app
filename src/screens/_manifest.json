@@ -1,0 +1,57 @@
+{
+ "app": "Flower Supplier App",
+ "start": "splash",
+ "screens": [
+  {
+   "slug": "login",
+   "name": "login",
+   "page": "Screens",
+   "w": 375,
+   "h": 812,
+   "elements": 29,
+   "links": 3
+  },
+  {
+   "slug": "signup",
+   "name": "signup",
+   "page": "Screens",
+   "w": 375,
+   "h": 812,
+   "elements": 24,
+   "links": 3
+  },
+  {
+   "slug": "home",
+   "name": "home",
+   "page": "Screens",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "daily",
+   "name": "Daily",
+   "page": "Screens",
+   "w": 375,
+   "h": 812,
+   "elements": 20,
+   "links": 2
+  },
+  {
+   "slug": "splash",
+   "name": "splash",
+   "page": "Screens",
+   "w": 375,
+   "h": 812,
+   "elements": 21,
+   "links": 3
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "crimson-pro",
+  "inter",
+  "nunito-sans"
+ ]
+}
